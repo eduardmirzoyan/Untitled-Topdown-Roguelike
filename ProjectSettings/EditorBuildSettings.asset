@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gen v3 Assets/Scenes/MainMenu.unity
+    guid: efb6e85346dddf24ea924a8eefe7740d
+  - enabled: 1
+    path: Assets/Gen v3 Assets/Scenes/CellularAutomata.unity
+    guid: 9e22493120f62924a83c11e34c502f2a
+  - enabled: 1
+    path: Assets/Gen v3 Assets/Scenes/GenerateRoom.unity
+    guid: 6bd684e8cf93b884cbe8c663a19fa481
+  - enabled: 1
+    path: Assets/Gen v3 Assets/Scenes/RandomWalk.unity
+    guid: ba692aa746fbf9d419e5e68949f15130
+  m_configObjects: {}
